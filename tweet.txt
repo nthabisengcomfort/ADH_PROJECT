@@ -139,10 +139,10 @@ public static TwitterFactory config()
 	{
 	ConfigurationBuilder configurationBuilder=new ConfigurationBuilder();
 	configurationBuilder.setDebugEnabled(true)
-	.setOAuthConsumerKey("UmM4DfJrKU53hs7EfCuCip8lc")
-	.setOAuthConsumerSecret("DTOcS4UAYdmej516XGULUPFSOgouiOV2UKHJGVDTYFTY")
-	.setOAuthAccessToken("1182964992781088385-DVKRXIH4W7cJDfllaGPAo7TTFZHD7H")
-	.setOAuthAccessTokenSecret("uA6OVjfF5e6DN800zlSmwc0G5Pk6kY74E2u6fJ310p");
+	.setOAuthConsumerKey("UmM4DfJrKU53hs7EfCUC1p8lc")
+	.setOAuthConsumerSecret("DT0cSv4U4Ydmej5I9xGULuPFSOg0uiOV2UkHSsDLap6NdgX52R")
+	.setOAuthAccessToken("1182964992771088385-DVKRXlH4W7cJDfllaGPAo7TFZTHD7H")
+	.setOAuthAccessTokenSecret("uAz6oIoVjF15e6DN80OzlSmwc0G5Pk6kY74E2u6fJ3I0p");
 		
 		
 		
